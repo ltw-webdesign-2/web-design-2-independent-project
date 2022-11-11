@@ -15,7 +15,7 @@ deliverables: '3 HTML files, 1 CSS file, images'
 - Create a multi-page website: Home, +2 more pages.
 - *It should have real text content.*
 - It should be completely designed, with real images, real colours—and it should look amazing.
-- **Don’t steal images**—[use properly licensed images](https://cg.algonquindesign.ca/administration/stock.html). If the image requires that you credit the author use a [`humans.txt`](https://learn-the-web.algonquindesign.ca/topics/search-engine-optimization/#humanstxt) file. ([See an example `humans.txt` file](https://github.com/acgd-webdev-3/modularity-mindfulness/blob/gh-pages/humans.txt)).
+- **Don’t steal images**—use properly licensed images. If the image requires that you credit the author use a [`humans.txt`](https://learntheweb.courses/topics/search-engine-optimization/#humanstxt) file. ([See an example `humans.txt` file](https://github.com/acgd-webdev-3/modularity-mindfulness/blob/gh-pages/humans.txt)).
 - *The website should obviously be fully responsive: working on screensizes from `320px` all the way to `~2500px`.*
 - **Run it through Markbot and make sure it passes all the checks.**
 
@@ -40,8 +40,8 @@ There should be a significant example of everything we’ve learned this term in
 - A unique `<title>` & `<h1>` for everything HTML page
 - Focus states on the navigation and links in the main body content
 - ARIA roles & proper accessibility & colour contrast
-- Fits within the [standard performance budget](https://learn-the-web.algonquindesign.ca/topics/performance-checklist/)
-- Passes all [accessibility checks](https://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/) including skip links and ARIA landmark roles
+- Fits within the [standard performance budget](https://learntheweb.courses/topics/performance-checklist/)
+- Passes all [accessibility checks](https://learntheweb.courses/topics/accessibility-checklist/) including skip links and ARIA landmark roles
 - *Google Fonts are optional—you may decided they have too much of a performance impact.*
 
 ### CSS file
@@ -61,9 +61,9 @@ In class, week 14, we will be doing lots of peer testing—most of the website n
 
 Each person will be assigned a tool and will be required to test everybody’s websites.
 
-- [Accessibility testing](https://learn-the-web.algonquindesign.ca/courses/shared/accessibility-testing/)
-- [Browser testing](https://learn-the-web.algonquindesign.ca/courses/shared/browser-testing/)
-- [Performance testing](https://learn-the-web.algonquindesign.ca/courses/shared/performance-testing/)
+- [Accessibility testing](https://learntheweb.courses/courses/shared/accessibility-testing/)
+- [Browser testing](https://learntheweb.courses/courses/shared/browser-testing/)
+- [Performance testing](https://learntheweb.courses/courses/shared/performance-testing/)
 
 ---
 
